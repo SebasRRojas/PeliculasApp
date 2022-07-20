@@ -4,7 +4,7 @@
   <img src ="./banner.png" />
 </div>
 -->
-# :octocat: Hello, I'm Sebastiean
+# :octocat: Hello, I'm Sebastián
 ## 👨🏻‍💻 About Me:
 
 <img  src="./programming.gif" height="290px" align="right" />
